@@ -1,0 +1,32 @@
+C:\Users\Sanyo\Documents\SharpDevelop Projects\laba7\laba7\obj\Debug\laba7.csprojResolveAssemblyReference.cache
+C:\Users\Sanyo\Documents\SharpDevelop Projects\laba7\laba7\obj\Debug\laba7.MainForm.resources
+C:\Users\Sanyo\Documents\SharpDevelop Projects\laba7\laba7\obj\Debug\laba7.csproj.GenerateResource.Cache
+C:\Users\Sanyo\Documents\SharpDevelop Projects\laba7\laba7\bin\Debug\laba7.exe.config
+C:\Users\Sanyo\Documents\SharpDevelop Projects\laba7\laba7\bin\Debug\laba7.exe
+C:\Users\Sanyo\Documents\SharpDevelop Projects\laba7\laba7\bin\Debug\laba7.pdb
+C:\Users\Sanyo\Documents\SharpDevelop Projects\laba7\laba7\obj\Debug\laba7.exe
+C:\Users\Sanyo\Documents\SharpDevelop Projects\laba7\laba7\obj\Debug\laba7.pdb
+E:\laba7\laba7\laba7\bin\Debug\laba7.exe.config
+E:\laba7\laba7\laba7\bin\Debug\laba7.exe
+E:\laba7\laba7\laba7\bin\Debug\laba7.pdb
+E:\laba7\laba7\laba7\obj\Debug\laba7.csprojResolveAssemblyReference.cache
+E:\laba7\laba7\laba7\obj\Debug\laba7.MainForm.resources
+E:\laba7\laba7\laba7\obj\Debug\laba7.csproj.GenerateResource.Cache
+E:\laba7\laba7\laba7\obj\Debug\laba7.exe
+E:\laba7\laba7\laba7\obj\Debug\laba7.pdb
+C:\Users\adfgh\Desktop\C#\Лабы\laba7\laba7\bin\Debug\laba7.exe.config
+C:\Users\adfgh\Desktop\C#\Лабы\laba7\laba7\bin\Debug\laba7.exe
+C:\Users\adfgh\Desktop\C#\Лабы\laba7\laba7\bin\Debug\laba7.pdb
+C:\Users\adfgh\Desktop\C#\Лабы\laba7\laba7\obj\Debug\laba7.csprojResolveAssemblyReference.cache
+C:\Users\adfgh\Desktop\C#\Лабы\laba7\laba7\obj\Debug\laba7.MainForm.resources
+C:\Users\adfgh\Desktop\C#\Лабы\laba7\laba7\obj\Debug\laba7.csproj.GenerateResource.Cache
+C:\Users\adfgh\Desktop\C#\Лабы\laba7\laba7\obj\Debug\laba7.exe
+C:\Users\adfgh\Desktop\C#\Лабы\laba7\laba7\obj\Debug\laba7.pdb
+C:\Users\sshis\Documents\РГУ\laba7\laba7\bin\Debug\laba7.exe.config
+C:\Users\sshis\Documents\РГУ\laba7\laba7\bin\Debug\laba7.exe
+C:\Users\sshis\Documents\РГУ\laba7\laba7\bin\Debug\laba7.pdb
+C:\Users\sshis\Documents\РГУ\laba7\laba7\obj\Debug\laba7.csprojResolveAssemblyReference.cache
+C:\Users\sshis\Documents\РГУ\laba7\laba7\obj\Debug\laba7.MainForm.resources
+C:\Users\sshis\Documents\РГУ\laba7\laba7\obj\Debug\laba7.csproj.GenerateResource.Cache
+C:\Users\sshis\Documents\РГУ\laba7\laba7\obj\Debug\laba7.exe
+C:\Users\sshis\Documents\РГУ\laba7\laba7\obj\Debug\laba7.pdb
